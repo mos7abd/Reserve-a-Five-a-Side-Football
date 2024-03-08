@@ -8,5 +8,10 @@ Challenge Management: Users can issue challenges to competitors and track them w
 Owner Dashboard: Field owners can manage bookings, generate reports, and control system settings.<br>
 
 ## Technologies Used
-Backend: ASP.NET Web Forms<br>
-Database: SQL Server
+Web Forms: Built using Web Forms, ensuring a responsive and intuitive user interface for seamless navigation and interaction.
+
+Database Integration: Utilizes database integration to store and manage user information, field availability, reservations, and other relevant data.
+
+Security Measures: Implements robust security measures to protect user data and ensure confidentiality throughout the application.
+
+Scalability: Designed with scalability in mind, allowing for future expansion and integration of additional features to enhance user experience.
